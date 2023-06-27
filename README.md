@@ -1,4 +1,7 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Description
+The application implements Firebase Authentication with Gmail login.
+This allows users to log in to the application using their Gmail accounts.The application makes a call to the OpenAI API. The response from the API call is received and processed.The fetched data is displayed on the user interface of the application.Firebase Realtime Database is used to store the saved data. The data is structured and stored in a table-like format in the database.
 
 ## Getting Started
 First, install 
