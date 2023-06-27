@@ -1,4 +1,4 @@
-![Screenshot 2023-06-27 232936](https://github.com/Anubhavdevv/nextfetchData/assets/72249059/ad1561e0-b02c-4a55-a7c1-91a0c4fa49fd)This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
 First, install 
